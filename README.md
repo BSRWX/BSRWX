@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MMORPG Game<br>🤝 I’m looking for help with 3D modeling<br>🌱 I’m currently learning C# and Unity<br>💬 Ask me about I'm just in high school
+🔭 I’m currently working on MMORPG Game<br>🤝 I’m looking for help with 3D modeling<br>🌱 I’m currently learning C# and Unity<br>💬 Ask me about
 
 
 ## 🌐 Socials:
