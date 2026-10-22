@@ -49,6 +49,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSRWX&theme=shadow_blue&hide_border=false" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=BSRWX&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSRWX&theme=shadow_blue&hide_border=false" width="100%" />
 </div>
