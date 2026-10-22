@@ -21,7 +21,7 @@
 - DSP (Digital Signal Processing), hardware reverse engineering, eIQ NPU acceleration on NXP microcontrollers, and advanced bare-metal ARM architecture.
 
 ### 💬 Ask me about:
-- `C/C++` embedded development, custom PCB layout design, C# backend architectures, multiplayer game networking, or configuring PostgreSQL on Linux.
+- `C/C++` embedded development, C# backend architectures or multiplayer game networking.
 
 ---
 
@@ -51,14 +51,4 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSRWX&theme=shadow_blue&hide_border=false" width="48%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=BSRWX&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BSRWX&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" />
-</div>
-<br>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BSRWX&icon=0&color=11" />
-  </a>
 </div>
